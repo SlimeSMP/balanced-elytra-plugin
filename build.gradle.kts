@@ -31,14 +31,14 @@ fun pascalcase(kebabcaseString: String): String {
   return pascalCaseString
 }
 
-val mainProjectAuthor = "Esoteric Organisation"
-val topLevelDomain = "org"
+val mainProjectAuthor = "Esoteric Foundation"
+val topLevelDomain = "foundation"
 val projectAuthors = listOfNotNull(mainProjectAuthor, "rolyPolyVole", "Esoteric Enderman")
 
-description = "A simple Minecraft plugin that prevents the use of rocket-boosted elytra in the overworld. Made for a private server."
+description = "A simple Minecraft plugin that prevents the use of rocket-boosted elytra in the overworld. Made for the SLIME SMP!"
 
 group = topLevelDomain + groupStringSeparator + "esoteric"
-version = "1.0.0-SNAPSHOT"
+version = "1.0.0"
 
 val javaVersion = 21
 val paperApiVersion = "1.21"
@@ -68,6 +68,6 @@ bukkitPluginYaml {
 
   version = project.version.toString()
   apiVersion = paperApiVersion
-  main = project.group.toString() + groupStringSeparator + "minecraft.plugins.elytra.balance" + groupStringSeparator + pascalcase(rootProject.name)
+  main = project.group.toString() + groupStringSeparator + "minecraft.smps.slime.plugins.elytra.balance" + groupStringSeparator + pascalcase(rootProject.name)
   load = BukkitPluginYaml.PluginLoadOrder.STARTUP
 }

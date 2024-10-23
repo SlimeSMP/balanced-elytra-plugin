@@ -1,4 +1,4 @@
-package org.esoteric.minecraft.plugins.elytra.balance;
+package foundation.esoteric.minecraft.smps.slime.plugins.elytra.balance;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
