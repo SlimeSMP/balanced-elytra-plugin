@@ -4,6 +4,8 @@
 
 <h2 align="center"> License </h2>
 
-<sup> [Balanced Elytra Plugin](https://github.com/SlimeSMP/balanced-elytra-plugin)[^1] (the "Licensed Material") Copyright (C) 2024 by the [Esoteric Foundation](https://github.com/EsotericFoundation) (the "Licensor") is licensed under the [Esoteric Foundation Public License 1.0.10](./LICENSE) (the "Public License"). </sup>
+<sup> [Balanced Elytra Plugin](https://github.com/SlimeSMP/balanced-elytra-plugin)[^1] Copyright (C) 2024 by the [Esoteric Foundation](https://github.com/EsotericFoundation)[^2] is licensed under the [Esoteric Foundation Public License 1.0.10](./LICENSE)[^3]. </sup>
 
-[^1]: This Git repository and all of its contents, past, present, and future.
+[^1]: This Git repository and all of its contents, past, present, and future (the "Licensed Material").
+[^2]: (The "Licensor").
+[^3]: (The "Public License").
