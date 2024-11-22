@@ -1,11 +1,13 @@
-<h1 align="center"> Balanced Elytra Plugin </h1>
+# Balanced Elytra Plugin
 
-<p align="center"> A simple Minecraft plugin that prevents the use of rocket-boosted elytra in the overworld. Made for the <a href="https://github.com/SlimeSMP">SLIME SMP</a>! </p>
+> A simple Minecraft plugin that prevents the use of rocket-boosted elytra in the overworld. Made for the <a href="https://github.com/SlimeSMP">SLIME SMP</a>!
 
-<h2 align="center"> License </h2>
+## License
 
-<sup> [Balanced Elytra Plugin](https://github.com/SlimeSMP/balanced-elytra-plugin)[^1] Copyright (C) 2024 by the [Esoteric Foundation](https://github.com/EsotericFoundation)[^2] is licensed under the [Esoteric Foundation Public License 1.0.10](./LICENSE)[^3]. </sup>
+[Balanced Elytra Plugin](https://github.com/SlimeSMP/balanced-elytra-plugin) Copyright (C) 2024 [Esoteric Foundation](https://github.com/EsotericFoundation)
 
-[^1]: This Git repository and all of its contents, past, present, and future (the "Licensed Material").
-[^2]: (The "Licensor").
-[^3]: (The "Public License").
+This program is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](./LICENSE) as published by the [Free Software Foundation](https://www.fsf.org/), either [version 3](./LICENSE) of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](./LICENSE) for more details.
+
+You should have received a copy of the [GNU General Public License](./LICENSE) along with this program. If not, see <[gnu.org/licenses](https://www.gnu.org/licenses/)>.
