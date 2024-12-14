@@ -1,5 +1,7 @@
 # Balanced Elytra Plugin
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > A simple Minecraft plugin that prevents the use of rocket-boosted elytra in the overworld. Made for the <a href="https://github.com/SlimeSMP">SLIME SMP</a>!
 
 ## License
